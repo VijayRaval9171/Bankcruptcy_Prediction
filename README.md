@@ -1,1 +1,1 @@
-# Bankcruptcy_Prediction
+# Bankcruptcy_Prevension
